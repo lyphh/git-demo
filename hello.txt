@@ -1,0 +1,17 @@
+
+hello git!
+hello lyp!lyp
+lyp
+lyp
+-q
+zz
+.wq
+
+hello git!
+hello lyp!lyp
+lyp
+lyp
+-q
+zz
+.wq
+
