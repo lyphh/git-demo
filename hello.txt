@@ -1,17 +1,10 @@
 
 hello git!
-hello lyp!lyp
-lyp
-lyp
--q
-zz
-.wq
-
-hello git!
-hello lyp!lyp
-lyp
-lyp
--q
-zz
-.wq
+hello lyp!
+hello atguigu!
+hello java!
+hello MyBatis!
+hello Spring!
+hello SpringMVC!
+:wq
 
