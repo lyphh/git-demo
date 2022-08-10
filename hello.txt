@@ -6,5 +6,3 @@ hello java!
 hello MyBatis!
 hello Spring!
 hello SpringMVC!
-:wq
-
